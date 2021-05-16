@@ -1,0 +1,25 @@
+Note: 
+1. For any inquiry about the template, please see detailed guidelines from following website: 
+https://www.acm.org/publications/proceedings-template
+
+2. Word file for submission is preferred.
+
+3. Find your CCS Concepts (ACM Computing Classification System, which category your paper belongs to) and add it to your paper: 
+https://dl.acm.org/ccs/ccs.cfm
+Below is an example for reference (Please select the appropriate CCS Concepts level by level and add them to the paper, fill in at least 3 levels):
+Computing methodologies-Artificial intelligence-Computer vision-Computer vision problems-Object detection
+
+4. Full name of each author, no abbreviation. 
+   Only one corresponding author and his/her name must be marked with a Asterisk*. 
+
+5. Add email address of each author and make sure their email addresses are different. 
+
+
+1. 点击了解论文模板的补充说明：https://www.acm.org/publications/proceedings-template
+2. 本会投稿仅接收Word格式
+3. 请在以下网址找到文章所属领域 (CCS Concepts) 并添加CCS Concepts到论文中:    https://dl.acm.org/ccs/ccs.cfm
+   具体可参考以下样例 （逐级选择合适的CCS Concepts 添加到论文中， 至少填写3级）：
+   Computing methodologies-Artificial intelligence-Computer vision-Computer vision problems-Object detection
+4. 作者名字用全名，不要使用缩写
+   有且仅有一位通讯作者，请在通讯作者姓名上标星号*。
+5. 所有作者的邮箱都必须添加，并确保每个邮箱都是不一样的。
